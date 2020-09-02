@@ -52,7 +52,7 @@ chmod -v 777 filename.type
 
 
 
-git new test
 git clone ""
+git new test
 
 git status
