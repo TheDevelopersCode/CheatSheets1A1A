@@ -54,3 +54,5 @@ chmod -v 777 filename.type
 
 
 git clone ""
+
+git status
