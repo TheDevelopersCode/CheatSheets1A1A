@@ -53,6 +53,11 @@ chmod -v 777 filename.type
 
 
 git new test
+git another new test
 git clone ""
+git pull
 
 git status
+git add -A | git add filename
+git commit -m ""
+git push
