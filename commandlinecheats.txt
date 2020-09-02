@@ -53,15 +53,14 @@ chmod -v 777 filename.type
 
 
 
-git another new test
+
 git clone ""
-git new test
-git pull
+ 
+git pull => this is used to cheak for any updates.use before you start and before you update git
 
 
 
-
-git status
+git status  =>    use this in order and to update git
 git add -A | git add filename
 git commit -m ""
 git push
