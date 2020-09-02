@@ -1,0 +1,49 @@
+	Cheat Sheet
+
+ng => Angular command  Example "ng g c Home"
+	g => generate
+	c => component
+	new => create new app "new appname"
+	serve => launches local server
+
+apt-get install update
+apt-get install nodejs
+node -v
+apt install net-tools
+
+
+npm install npm@latest -g
+npm -v
+npm list
+
+
+git clone ""
+git status
+git add -A
+git git commit -m ""
+git push
+git pull
+
+git config --global user.name ""
+git config --global user.email ""
+
+echo "" > ./path/to/file.type
+
+chmod -v 777 ./path/to/file.type
+		421421421
+
+grep
+
+cat ./path/to/file.type
+
+ls -a -l
+
+rm ./path/to/file.type
+cp ./path/to/file.type ./path/to/file.type
+mv ./path/to/file.type ./path/to/file.type
+mkdir ./path/to/file.type 
+mvdir ./path/to/file.type ./path/to/file.type
+
+
+iwconfig
+ifconfig
